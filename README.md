@@ -198,8 +198,8 @@ Built for Into the Scrape-Verse, August 2026.
 |---|---|
 | Devendra | Backend |
 | Hardeep | UI/UX |
-| Poornesh | Team lead + AI infra |
-| Ashish | DBMS |
+| Umesh chandra | Team lead + AI infra |
+| Mahesh | DBMS |
 
 ---
 
